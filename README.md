@@ -23,6 +23,9 @@ Sources: https://minorityrights.org/country/zimbabwe/; https://www.britannica.co
 8. Conflict events resulting in at least 1 fatality for different GEF periods.
 Source: https://acleddata.com/
 
+9. Small Grants Programme projects provided by the UNDP National Coordinator office.
+Source: https://sgp.undp.org/component/countrypages/?view=countrypage&country=121
+
 
 ### GEF periods definition
 
